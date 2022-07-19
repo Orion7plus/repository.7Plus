@@ -10,9 +10,11 @@ Instruções para a adição no gestor:
     <li>O endereço para a fonte é <code>https://tiny.one/7PlusREPO</code> (Dar o nome de "repository.7Plus").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repository.7Plus", e instalar <a href="repository.7Plus.zip">repository.7Plus.zip</a>.</li>
-    -
+    
     <li>Repositório Instalado!</li>
     
+    <li>Kodi 19</li>
+    <li>Kodi 20</li>
 </ul>
 
                                       
