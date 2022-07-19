@@ -13,8 +13,8 @@ Instruções para a adição no gestor:
     
     <li>Repositório Instalado!</li>
     
-    <li>Kodi 19</li>
-    <li>Kodi 20</li>
+    <li>Kodi 19 (Matrix)</li>
+    <li>Kodi v20 (Nexus)</li>
 </ul>
 
                                       
