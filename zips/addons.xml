@@ -1,0 +1,43 @@
+<addons>
+<addon 	id="plugin.video.7Plus.Nexus"
+	name="[B][COLOR red]7PLUS[/COLOR][/B]"
+	version="3.0.0+Nexus.1"
+	provider-name="[B][COLOR red]7PLUS[/B][/COLOR]">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>  
+<extension point="xbmc.python.pluginsource" library="7plus.py">
+	<provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.repository" name="7Plus REPO">
+	<info compressed="false"></info>
+	<checksum></checksum>
+    <datadir zip="true"></datadir>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+    <summary lang="en">[B][COLOR white]FILMES, SERIES, ANIMÇÃO EM  HD, Legendados. O MELHOR ADDON DE FILMES E SERIES PRO SEU KODI!.[/COLOR][/B]</summary>
+	<description lang="en">[B][COLOR red]ADDON oficial [COLOR red]7PLUS[/COLOR] - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
+[B][COLOR white]Addon [COLOR red]7PLUS[/COLOR] é de uso gratuito!![/COLOR][/B]
+[B][COLOR firebrick]Mais um excelente addon de língua portuguesa como filmes recentes e também antigos, séries, animação.[/COLOR][/B]</description>
+	<disclaimer lang="en">[COLOR yellow][B]O conteúdo exibido por este complemento. 7PLUS não tem nenhuma afiliação com o provedor de conteúdo, Somente é responsável por coletar os melhores filmes da Internet, categorização e otimizá-los, de modo a que esta ao alcance de seus usuários. tão fácil e descomplicada.[/B][/COLOR]</disclaimer>
+	 	<news>
+v3.0.0.matrix.1
+- Addon 7PLUS
+</news>
+	<platform>all</platform>
+    <assets>
+	<icon>icon.png</icon>
+    <fanart>fanart.png</fanart>
+    <screenshot>resources/screenshots/01.jpg</screenshot>
+    <screenshot>resources/screenshots/02.jpg</screenshot>
+    <screenshot>resources/screenshots/03.jpg</screenshot>
+
+    </assets>
+</extension>
+</addon>
+</addons>
